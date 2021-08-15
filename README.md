@@ -1,12 +1,12 @@
-#Django Admin Microservice
+# Django Admin Microservice
 This is the first of the three microservices that make up a Product section of an e-commerce app.
-##Tech Stack
+## Tech Stack
 In this part of the project I used:
 1. Django Framework
 2. Django Rest Framework
 3. MySQL
 4. Docker
-##How to Run
+## How to Run
 To run the project on your local computer follow the steps:
 1. Install Python3
 2. Install Docker Desktop
